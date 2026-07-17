@@ -30,7 +30,7 @@
 
 ## 🏆 Highlights
 
-- 🥇 **Top 4% globally on TryHackMe** | 370+ day streak | 122+ rooms completed
+- 🥇 **Top 3% globally on TryHackMe** | 370+ day streak | 122+ rooms completed
 - 🔬 **Cybersecurity Intern @ KANUPP** (Pakistan Atomic Energy Commission) — deployed NIDS, conducted VAPT
 - 🍯 **Sky Bait Honeypot** — captured 70,000+ real attack events, detected active botnet campaigns
 
