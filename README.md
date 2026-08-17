@@ -1,6 +1,6 @@
 # Hi, I'm Syed Muhammad Anas 👋
 
-**Cybersecurity Practitioner | SOC Operations | Penetration Testing | FAST NUCES '26**
+**Cybersecurity Practitioner | SOC Operations | DevSecOps | CI/CD | Penetration Testing | FAST NUCES '26**
 
 📍 Karachi, Pakistan &nbsp;|&nbsp; 🎯 Open to SOC Analyst & Junior Pentesting roles in Pakistan & Gulf
 
